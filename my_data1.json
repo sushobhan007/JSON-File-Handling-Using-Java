@@ -1,0 +1,14 @@
+{
+  "Occupation": "Student",
+  "Name": "John Doe",
+  "Result": [
+    {
+      "Grade": "A+",
+      "Subject": "Java"
+    },
+    {
+      "Grade": "A",
+      "Subject": "Data Structures"
+    }
+  ]
+}
